@@ -1,0 +1,9 @@
+pymupdf
+transformers
+sentence-transformers
+qdrant-client
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+anthropic

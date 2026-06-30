@@ -1,1 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
 .env
+
+# Local data artifacts
+data/processed/
+qdrant_storage/
